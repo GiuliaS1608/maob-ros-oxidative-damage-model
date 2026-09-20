@@ -219,6 +219,10 @@ Entre suas principais limitações estão:
 
 Dessa forma, os resultados das simulações devem ser interpretados principalmente em termos de **alterações relativas e qualitativas entre os diferentes cenários**.
 
+## Licença
+
+Este projeto é licenciado sob a MIT License. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+
 ## Autores
 
 **Giulia S. Ferreira**  
