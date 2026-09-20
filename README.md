@@ -216,6 +216,10 @@ Important limitations include:
 
 Accordingly, simulation results should primarily be interpreted in terms of **relative and qualitative changes between scenarios**.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Authors
 
 **Giulia S. Ferreira**  
