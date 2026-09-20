@@ -200,6 +200,7 @@ maob-ros-oxidative-damage-model/
 -- docs/
    -- ...
 ```
+-- LICENSE
 
 ## Model Scope and Limitations
 
