@@ -155,6 +155,12 @@ The interface allows users to:
 
 The interactive application is intended as a computational and educational complement to the mathematical model.
 
+## Online Simulator
+
+The interactive MAO-B simulator is available online and can be accessed without installing any software.
+
+**[Launch the Interactive Simulator](https://maob-ros-oxidative-damage-model.streamlit.app/)**
+
 ## Installation
 
 Clone the repository and enter the project directory:
